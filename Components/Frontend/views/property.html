@@ -1,0 +1,106 @@
+<!doctype HTML>
+<html lang="en">
+    <head>
+        <title>View Property</title>
+         <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"/>
+
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+
+        <link rel = "stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+
+        <link rel="stylesheet" href="../resources/css/property_page.css">
+
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+         <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+        </style>
+
+
+    </head>
+    <nav class="navbar navbar-expand-lg navbar-light navbar-custom fixed-top">
+        <a class="navbar-brand" href="viewall.html">
+          <img
+            class="rounded-circle"
+            src="../resources/img/RR.png"
+            alt=""
+            width="40"
+            height="30"
+          />
+        </a>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav me-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="viewall.html">Home</a>
+            </li>
+            <li class="nav-item active">
+            <a class="nav-link" href="profilePage.html">Profile</a>
+          </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="write_review.html">Write a Review</a>
+            </li>
+          </ul>
+          <ul class = "navbar-nav ms-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="register.html">Register</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="login.html">Login</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    <body style="max-width: 100%; overflow-x: hidden;  height:100%" onload="loadReviewsPage()">
+        <br>
+        <br>
+        <br>
+        
+       
+
+        <!-- <nav class="navbar navbar-expand-lg navbar-custom" style="margin:0; color: #F5F5F5;">nav bar :)</nav> -->
+        <div class="container" style="margin:10px 15px; max-width:100%">
+            <div class="row">
+              <div class="col-1"></div>
+              <div class="col-3" style="margin:10px">
+                <div class="row" style="margin-bottom: 10px;"><img id="propImage"></div>
+                    <div class="row" style="background-color: white;">
+                        <div class="col" id="addressCol">
+                            <h1 id="address"></h1> 
+                            <a id="google" target="_blank"><p>View Property on Google Maps</p></a>
+                        </div>
+                    </div>
+                    <div class="row" style="background-color:white;margin-top:10px;margin-bottom: 10px;">
+                        <div class="col" id ="starCol">
+                            <div class="row" id="avgStarsSpan" style="margin: 5px;font-size:x-large;"></div>
+                            <h3 id="averageNum"></h3>
+                            <h4 id="totalRevs"></h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col" id="miscCol" style="background-color: white;">
+                            <h3 id="manager"></h3>
+                            <h3 id="bedBath"></h3>
+                            <h3 id="rent"></h3>
+                            <!-- <h6>Maybe if we have other stuff to put here, we can.</h6>
+                            <h6>Notice the cool scrollbar inside the review list, as well as one encompassing the entire page :)</h6> -->
+                        </div>
+                    </div>
+              </div>
+              <div class="col-6" style="background-color:white;overflow-y:auto; margin:10px; height:850px; font-size: large;" id="reviewList">
+              </div>
+              <div class="col-1"></div>
+            </div>
+        </div>
+        <script src="../resources/js/property.js"></script>
+    </body>
+</html>

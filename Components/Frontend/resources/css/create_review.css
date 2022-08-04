@@ -1,0 +1,54 @@
+body{
+	background-color: #F5F5F5;
+}
+
+h1{
+	font-family: 'Bebas Neue', cursive;
+	color: #483d3f;
+	font-size: 45pt;
+}
+
+h5{
+	font-family: 'Bebas Neue', cursive;
+	color: #483d3f;
+	font-size: 20pt;
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	color: #50514f;
+	font-size: 30pt;
+	font-weight: 400;
+}
+
+a{
+    font-family: 'Roboto', sans-serif;
+    color: #659DBD;
+    font-size: 14pt;
+    font-weight: 400;
+}
+
+#submit_button{
+	font-family: 'Roboto', sans-serif;
+	font-weight:  400;
+	/*background-color: #483d3f;*/
+}
+
+.navbar-custom {
+    background-color: #659DBD;
+}
+
+.rating {
+	cursor: pointer;
+}
+
+.rating .rating-star {
+	display: inline-block;
+  position: relative;
+  padding-right: 5px;
+  margin-left: -5px;
+  color: #edd95f;
+}
+.rating .selected:before {
+  content: '\f005';
+}

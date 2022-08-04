@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 588.16" style="enable-background:new 0 0 1080 588.16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5F5F5;}
+	.st1{fill:#659DBD;}
+	.st2{font-family:'BebasNeue-Regular';}
+	.st3{font-size:48.8119px;}
+	.st4{font-size:100.8629px;}
+	.st5{fill:#50514F;}
+	.st6{font-family:'HelveticaNeue-Medium';}
+	.st7{font-size:59.8826px;}
+	.st8{font-family:'HelveticaNeue-Light';}
+	.st9{font-size:44.1656px;}
+	.st10{fill:#F9F1DC;}
+	.st11{font-size:54.2808px;}
+	.st12{fill:#F5F5F5;stroke:#50514F;stroke-miterlimit:10;}
+	.st13{fill:#483D3F;}
+</style>
+<rect x="0" class="st0" width="1080" height="588.16"/>
+<g>
+	<text transform="matrix(1 0 0 1 57.5149 307.3049)" class="st1 st2 st3">Realty Ratings</text>
+	<g>
+		<g>
+			<path class="st1" d="M180.12,42.89h51.53c36.04,0,51.53,16.75,51.53,50.89v13.59c0,22.76-7.27,37.3-22.76,43.62v0.63
+				c17.39,5.37,23.08,21.81,23.08,46.79v38.88c0,10.75,0.32,18.65,3.79,26.87h-35.41c-1.9-5.69-3.16-9.17-3.16-27.19v-40.46
+				c0-20.55-6.01-27.19-21.81-27.19h-12.01v94.83h-34.77V42.89z M227.54,137.73c12.96,0,20.86-5.69,20.86-23.39V97.26
+				c0-15.81-5.37-22.76-17.7-22.76h-15.81v63.22H227.54z"/>
+		</g>
+		<g>
+			<path class="st1" d="M172.08,264.17h-34.77v-94.83H125.3c-15.81,0-21.81,6.64-21.81,27.19v40.46c0,18.02-1.26,21.5-3.16,27.19
+				H64.92c3.48-8.22,3.79-16.12,3.79-26.87v-38.88c0-24.97,5.69-41.41,23.08-46.79V151c-15.49-6.32-22.76-20.86-22.76-43.62V93.79
+				c0-34.14,15.49-50.89,51.53-50.89h51.53V264.17z M137.31,137.73V74.5H121.5c-12.33,0-17.7,6.95-17.7,22.76v17.07
+				c0,17.7,7.9,23.39,20.86,23.39H137.31z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 354.2324 145.3833)" class="st1 st2 st4">BEbas neue regular</text>
+<text transform="matrix(1 0 0 1 354.2324 223.4419)" class="st5 st6 st7">Helevetica Neue Medium</text>
+<text transform="matrix(1 0 0 1 354.2324 285.0444)" class="st5 st8 st9">Helevetica Neue Light</text>
+<g>
+	<g>
+		<rect x="98.04" y="356.52" class="st1" width="183.48" height="183.48"/>
+		<g>
+			<text transform="matrix(1 0 0 1 113.0262 525.0674)" class="st10 st2 st11">#659DBD</text>
+		</g>
+	</g>
+	<g>
+		<rect x="565" y="356.52" class="st5" width="183.48" height="183.48"/>
+		<g>
+			<text transform="matrix(1 0 0 1 581.9435 525.0675)" class="st10 st2 st11">#50514F</text>
+		</g>
+	</g>
+	<g>
+		<rect x="798.48" y="356.52" class="st12" width="183.48" height="183.48"/>
+		<text transform="matrix(1 0 0 1 818.4645 525.0675)" class="st13 st2 st11">#F5f5f5</text>
+	</g>
+	<g>
+		<rect x="331.52" y="356.52" class="st13" width="183.48" height="183.48"/>
+		<g>
+			<text transform="matrix(1 0 0 1 348.2987 525.0675)" class="st10 st2 st11">#483D3F</text>
+		</g>
+	</g>
+</g>
+</svg>

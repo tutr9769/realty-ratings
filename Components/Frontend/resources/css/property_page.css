@@ -1,0 +1,58 @@
+body{
+	background-color: #F5F5F5;
+}
+
+h1{
+	font-family: 'Bebas Neue', cursive;
+	color: #483d3f;
+	font-size: 42pt;
+}
+
+a{
+	font-family: 'Roboto', sans-serif;
+	color: #659DBD;
+	font-size: 14pt;
+	font-weight: 400;
+}
+
+h3{
+	font-family: 'Roboto', sans-serif;
+	color: #50514f;
+	font-size: 20pt;
+}
+
+h4{
+	font-family: 'Roboto', sans-serif;
+	color: #50514f;
+	font-size: 16pt;
+
+}
+
+#reviewList{
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar-custom {
+    background-color: #659DBD;
+}
+
+
+
+p{
+	font-family: 'Bebas Neue', cursive;
+	color: #483d3f;
+	font-size: 12pt;
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	color: #50514f;
+	font-size: 30pt;
+	font-weight: 400;
+}
+
+/*#submit_button{
+	font-family: 'Roboto', sans-serif;
+	font-weight:  400;
+	background-color: #483d3f;
+}*/
