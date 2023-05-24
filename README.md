@@ -1,6 +1,6 @@
 # csci-3308-spring22-011-05
 
-### Where its hosted:
+### Where its hosted: (not online anymore)
 https://realty-ratings.herokuapp.com/
 
 ### REPO ORGANIZATION
